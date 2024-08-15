@@ -6,12 +6,13 @@ const Hero = () => {
     <section className="hero">
       <div className="hero-center">
         <div className="hero-title">
-          <h1>Contentful CMS</h1>
+          <h1>ACWD Projects</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            laborum, quasi officia dicta libero voluptas itaque molestias
-            debitis quisquam pariatur vitae deserunt sapiente natus at enim
-            nostrum. Provident, impedit corrupti.
+            "Hello! I'm Alex Cottam, a passionate web developer dedicated to
+            crafting dynamic and user-friendly websites. Welcome to my
+            portfolio, where I showcase a selection of projects that reflect my
+            skills, creativity, and commitment to excellence. Take a look around
+            and see the work I'm proud to share."
           </p>
         </div>
         <div className="img-container">
